@@ -1,0 +1,36 @@
+{
+  "states": [
+    {
+      "id": 1,
+      "name": "Rio de Janeiro",
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Bandeira_do_estado_do_Rio_de_Janeiro.svg"
+    },
+    {
+      "name": "São Paulo",
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg",
+      "id": 2
+    },
+    {
+      "name": "Espírito Santo",
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Bandeira_do_Esp%C3%ADrito_Santo.svg",
+      "id": 3
+    }
+  ],
+  "cities": [
+    {
+      "id": 1,
+      "name": "Duque de Caxias",
+      "stateId": 1
+    },
+    {
+      "id": 2,
+      "name": "Nova Iguaçu",
+      "stateId": 1
+    },
+    {
+      "id": 3,
+      "name": "Cotia",
+      "stateId": 2
+    }
+  ]
+}
